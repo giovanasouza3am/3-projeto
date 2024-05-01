@@ -1,4 +1,4 @@
-# 3-projeto
+
 let cor;
 let circuloX; // horizontal
 let circuloY; // vertical
